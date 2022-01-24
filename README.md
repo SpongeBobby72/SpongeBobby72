@@ -6,6 +6,9 @@
 [![FaceBook Badge](https://img.shields.io/badge/facebook-Profile-informational?style=flat&logo=facebook&logoColor=white&color=0D76A8)](https://www.facebook.com/kevin.hueri/)
 [![Gitlab Badge](https://img.shields.io/badge/gitlab-Profile-informational?style=flat&logo=gitlab&logoColor=white&color=0D76A8)](https://gitlab.com/kevin.hueri)
 
+Hello world 👋
+
+Je suis Kevin, jeune développeur. Je partage ici tout mes projets personnels et professionnels. N'hésitez pas à me partager vos avis sur ceux-ci ou à collaborer avec moi!
 
 
 <!--
