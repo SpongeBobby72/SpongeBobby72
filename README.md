@@ -1,4 +1,4 @@
-![header](https://github.com/SpongeBobby72/SpongeBobby72/blob/main/img/612Fb3.jpg)
+![background-image](https://github.com/SpongeBobby72/SpongeBobby72/blob/main/img/612Fb3.jpg)
 ### Hi there 👋
 <!--
 **SpongeBobby72/SpongeBobby72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
